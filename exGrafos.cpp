@@ -4,16 +4,20 @@
 //RESOLVER ISSO
 
 /* Escreva um algoritmo que solicite Nome, Sexo, idade e tres notas de N alunos em uma turma e ao final apresente: 
-	ADICIONAR MENUZINHO
-	resolver soma de idade
     b) controle de resposta ................................................. feito
    	1) Total de Alunos cadastrados........................................... feito
    	2) A media das idades dos alunos da turma................................ feito
    	3) Quantidade de alunos aprovados........................................ feito
 	3.1) Quantidade reprovados............................................... feito
    	4) Percentual de aprovacao por sexo (Masculinos e Femininos) ............ feito
-	5) Relatorio de alunos aprovados e reprovados............................
+	5) Relatorio de alunos aprovados e reprovados............................ feito
 	6) Permitir ao usuario configurar Quantidade de provas e Media aprovacao. feito
+	5) Media por idade ......................................................
+	5.1) idade a ser analisada ..............................................
+	6) Adicionar menu .......................................................
+	7) Fazer graficos .......................................................
+	8) banco de dados base ..................................................
+	9) colocar em funcoes ...................................................
 */
 
 struct Aluno //struct para organização dos dados
