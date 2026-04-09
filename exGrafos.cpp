@@ -5,6 +5,7 @@
 
 /* Escreva um algoritmo que solicite Nome, Sexo, idade e tres notas de N alunos em uma turma e ao final apresente: 
 	ADICIONAR MENUZINHO
+	resolver soma de idade
     b) controle de resposta ................................................. feito
    	1) Total de Alunos cadastrados........................................... feito
    	2) A media das idades dos alunos da turma................................ feito
